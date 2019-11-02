@@ -1,0 +1,57 @@
+body{
+  font-size: 10px;
+  background-color: rgb(241, 241, 241);
+}
+
+h1{
+  font-size: 2.5rem;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+svg{
+  box-shadow: 5px 5px 3px gray;
+}
+
+#estonia rect:first-child{
+  fill: rgb(0, 114, 206);
+}
+
+#estonia rect:nth-child(2){
+  fill: black;
+}
+
+#estonia rect:last-child{
+  fill: white;
+}
+
+#laos rect:first-child{
+  fill: rgb(191, 14, 20);
+}
+
+#laos rect:nth-child(2){
+  fill: rgb(12, 45, 138);
+}
+
+#laos circle{
+  fill: white;
+}
+
+#mali rect:first-child{
+  fill: rgb(29, 147, 85);
+}
+
+#mali rect:nth-child(2){
+  fill: rgb(255, 237, 55);
+}
+
+#mali rect:last-child{
+  fill: rgb(220, 22, 35);
+}
